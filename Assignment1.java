@@ -1,10 +1,7 @@
 import java.util.Date;
 import java.util.Arrays;
 
-/*
- * Name: Semih Sarisoy
- * Student number: 22058649
- */
+
 
 public class Assignment1 {
 
